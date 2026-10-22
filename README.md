@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Will 👋
 
-<!--
-**willprice10683/willprice10683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning computing and how to code using different programming languages.
 
-Here are some ideas to get you started:
+## About me
+- I live in Wales.
+- I'm interested in computing, robotics, and physics.
+- I'm currently learning Java and C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- Building my first coding projects.
+- Learning more about computer science.
+- Sharing my work and progress on GitHub.
+
+## Skills I'm learning
+- Java
+- C
+- Problem solving
+- Basic computer science concepts
+
+## Contact
+- Email: [William.price123@outlook.com](mailto:William.price123@outlook.com)
